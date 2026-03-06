@@ -1,2 +1,2 @@
 # AEI-Reliability-Cost-of-Error
-Why High-Performing AI Is Not Fully Automated: Evidence from Real-World Deployment 
+Empirical analysis of enterprise AI deployment using Anthropic Economic Index data, testing whether the economic cost of error—rather than model capability—drives automation across occupational tasks.
